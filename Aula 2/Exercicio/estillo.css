@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@500&display=swap');
+.imgLogin{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-image: url(logo-champions.jpg);
+}
+
+body{
+    background-image:url(https://wallpapers.com/images/hd/uefa-champions-league-star-bowl-rlsrfh81jsb88ed1.jpg);
+    background-repeat: no-repeat ;
+    background-size: 102%;
+height: 100vh;
+}
+    
+
+h1{
+    color: rgb(40, 134, 216) !important;
+    text-decoration: none;
+}
+
+#itemTopo{
+    background-color:transparent;
+    height: 70px;
+    font-size: 30px;
+    font-family:'Vollkorn','serif' ;
+
+}
+#itemRodape{
+    background-color:transparent;
+    height: 100px;
+}
+
+
+
+.itemMenu{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    background-color: rgb(40, 134, 216);
+    color: black;
+    font-size: 16pt;
+    margin-top: 10px;
+    font-family:'Vollkorn','serif' ;
+}
+.itemMenu:hover{
+    background-color: rgb(40, 134, 216);
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+
+.dadosUsuario{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    background-color: rgb(40, 134, 216);
+    color: black;
+    font-size: 16pt;
+    margin-top: 10px;
+    font-family:'Vollkorn','serif' ;
+}
